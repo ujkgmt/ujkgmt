@@ -91,7 +91,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
  
 <br></details>
 
-https://github.com/ujkgmt/ujkgmt/blob/main/images/
+
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
@@ -114,10 +114,12 @@ https://github.com/ujkgmt/ujkgmt/blob/main/images/
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/node.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/express.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/mongodb.png"></code> &nbsp;&nbsp;
 
 </p>
 
+<p align="center">
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/mongodb.png"></code> &nbsp;&nbsp;
+</p>
 <br/>
 
 
@@ -132,12 +134,12 @@ https://github.com/ujkgmt/ujkgmt/blob/main/images/
 <br/>
 <p align="center">
  <a href="mailto:ujkgmt@gmail.com"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/ujkgmt"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-    <a href="https://chandan.dev"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/awmir.aghayi"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+    <a href="https://setavizweb.ir"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
   </a> &nbsp; &nbsp;
-   <a href="amir"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/instagram.svg" width="30px" alt="instagram"></a> &nbsp; &nbsp;
+   <a href="amir"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/instagram.png" width="30px" alt="instagram"></a> &nbsp; &nbsp;
 </p>
 
 
