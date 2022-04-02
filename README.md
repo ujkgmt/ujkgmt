@@ -70,7 +70,7 @@ Every day I seek to learn new knowledge and experience in the way of my interest
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/tailwindcss.svg"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/tailwindcss.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/js.png"></code> &nbsp;&nbsp;
