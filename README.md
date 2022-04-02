@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.gif"/></p>
 
 <h3 align="center">
-    An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
+    An awesome React Developer at <a href="https://www.tabtarh.com">Tab Tarh</a>.  
 </h3>
 
 <br/>
@@ -112,6 +112,9 @@ https://github.com/ujkgmt/ujkgmt/blob/main/images/
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/node.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/express.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/mongodb.png"></code> &nbsp;&nbsp;
 
 </p>
 
@@ -128,12 +131,13 @@ https://github.com/ujkgmt/ujkgmt/blob/main/images/
 </h3>
 <br/>
 <p align="center">
- <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="mailto:ujkgmt@gmail.com"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
     <a href="https://chandan.dev"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
   </a> &nbsp; &nbsp;
+   <a href="amir"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/instagram.svg" width="30px" alt="instagram"></a> &nbsp; &nbsp;
 </p>
 
 
