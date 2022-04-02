@@ -1,5 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm Amir Aghayi </h1>
 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h3 align="center">
     An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
 </h3>
@@ -77,4 +79,3 @@
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
-⭐️ From [chandan-reddy-k](https://github.com/chandan-reddy-k)
