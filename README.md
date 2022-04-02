@@ -10,7 +10,7 @@
 <h2 align="center">
     I create user experiences that are:
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="Person coding gif" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/coding.gif" width="200" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
@@ -91,27 +91,27 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
  
 <br></details>
 
-
+https://github.com/ujkgmt/ujkgmt/blob/main/images/
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="70" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/css.png"></code>
     
 </p>
 
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/aws.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/js.png"></code> &nbsp;&nbsp;
 
 </p>
 
@@ -128,11 +128,11 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 </h3>
 <br/>
 <p align="center">
- <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-    <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+ <a href="mailto:chandu25.srm@gmail.com"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+    <a href="https://chandan.dev"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
   </a> &nbsp; &nbsp;
 </p>
 
