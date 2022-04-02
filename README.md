@@ -121,7 +121,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <br/>
 
 <h2 align="center">
-  Do you speak <b>தமிழ்</b>? It's ok if you don't. 
+  Do you speak <b>فارسی</b>? It's ok if you don't. 
 </h2>
 <h3 align="center">
   I speak English too, Get in touch.
