@@ -1,61 +1,64 @@
-### Hi there, I'm Oussama 👋
+# Hi there, I'm Mohsen - aka [HomelessDev] <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
-</div>
+<img align="right" alt="GIF" height="190px" src="https://octodex.github.com/images/Fintechtocat.png" />
+
+## I'm a full-stack developer
+
+- 💻 My favorite thing to do is backend development.
+- 📚 New technologies intrigue me, so I am constantly striving to learn them.
+- ⚡ Additionally, DevOps works are something I enjoy too.
+- 📺 I provide programming tutorials on my YouTube channel.
+- 🔴 I often stream on twitch.
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RealHomelessDev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pED7Yw9SAj)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsenbostan)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/homelessdev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsenbostan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohsenbostan.ir/)
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-liart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/frj9261crjc4ocj91kbgvzhet?si=EgUp9pCaRT2yp_cdzYblrQ)
+
+---
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
+🌆 Daytime    220 commits    ████████░░░░░░░░░░░░░░░░░   34.7% 
+🌃 Evening    227 commits    █████████░░░░░░░░░░░░░░░░   35.8% 
+🌙 Night      158 commits    ██████░░░░░░░░░░░░░░░░░░░   24.92%
+```
 
 
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
+📊 **This Week I Spent My Time On** 
 
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
-      </td>
-    </tr>
-  </tbody>
+```text
+⌚︎ Time Zone: Asia/Tehran
+💬 Programming Languages: 
+No Activity Tracked This Week
+🔥 Editors: 
+No Activity Tracked This Week
+```
 
-</table>
-</div>
 
-## About me
-I am Oussama Bouchikhifrom Algeria, I'm a computer science student a full stack web developer and an open source enthusiast. I like programming , design, photography and I always want to learn new things.
+ Last Updated on 01/04/2022 18:48:17 UTC
+<!--END_SECTION:waka-->
 
-<h2><i>Follow me:</i></h2>
-<div  align="center">
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
-  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
-
- <a href="https://twitter.com/oussth3boss/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-  </a>
-   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>
-  <a href="https://twitter.com/oussth3boss/" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>
-<a href="https://www.fiverr.com/oussama700" target="_blank">
-    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Upwork">
-  </a>
-</div>
-<hr>
-⭐️ From <a href="https://github.com/oussamabouchikhi">oussamamabouchikhi</a>
+<img src="https://imgur.com/rilHVxA.png"/>
