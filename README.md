@@ -133,7 +133,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
   <a href="https://in.linkedin.com/in/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
     <a href="https://chandan.dev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-  <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
+  </a> &nbsp; &nbsp;
 </p>
 
 
