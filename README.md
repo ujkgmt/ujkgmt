@@ -81,6 +81,7 @@ Every day I seek to learn new knowledge and experience in the way of my interest
 
 <p align="center">
 <code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/mongodb.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/ujkgmt/ujkgmt/blob/main/images/expo.png"></code> &nbsp;&nbsp;
 </p>
 <br/>
 
