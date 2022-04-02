@@ -1,6 +1,6 @@
 <h1 align="center"> Hey 👋🏽, I'm Amir Aghayi </h1>
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.gif"/></p>
 
 <h3 align="center">
     An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
@@ -138,4 +138,4 @@ https://github.com/ujkgmt/ujkgmt/blob/main/images/
 
 
 
-<img src="https://imgur.com/rilHVxA.png"/>
+<img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/city.png"/>
