@@ -108,12 +108,3 @@ Every day I seek to learn new knowledge and experience in the way of my interest
 
 <img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/city.png"/>
 
-
-
-
-
-
-
-من یک توسعه دهنده فول استک جاوا اسکریپت با تکنولوژی های ذکر شده بالا هستم.
-من عاشق جاوا اسکریپت و دنیای برنامه نویسی هستم.
-من هر روز دنبال یادگیری دانش جدید و به دنبال تجربه ای در راه علاقه خودم هستم و در حال گسترش دانش خودم هستم.
