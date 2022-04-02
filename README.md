@@ -28,15 +28,15 @@
 
 <details>
 <summary>
-  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://github.com/ujkgmt"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 
 ### Little More About Me  🏆
 
-I am a full stack JavaScript developer with the above mentioned technologies.🍜🔨
-I love JavaScript and the world of programming.🎷
-Every day I seek to learn new knowledge and experience in the way of my interest and I am expanding my knowledge.🎯
+I am a full stack JavaScript developer with the above mentioned technologies.🍜🔨<br>
+I love JavaScript and the world of programming.🎷<br>
+Every day I seek to learn new knowledge and experience in the way of my interest and I am expanding my knowledge.🎯<br>
 
 ### Programming Languages :scroll:
 
