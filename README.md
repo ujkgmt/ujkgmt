@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋🏽, I'm Amir Aghayi </h1>
+<h1 align="center"> Hey 👋🏽, I'm Amir Aghaei </h1>
 
 <p align="center"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.gif"/></p>
 
