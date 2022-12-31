@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/ujkgmt/ujkgmt/blob/main/images/github.gif"/></p>
 
 <h3 align="center">
-     React & react native Developer at <a href="https://safar724.com">Safar724</a>.  
+     React & React-Native Developer at <a href="https://safar724.com">Safar724</a>.  
 </h3>
 
 <br/>
